@@ -165,7 +165,7 @@ public class Main  {
 		label.addMouseListener(new MouseAdapter() {
 			@Override
 			public void mouseClicked(MouseEvent arg0) {
-				openUrl("http://mypi.ruliweb.daum.net/mypi.htm?id=ung1212");
+				openUrl("http://mypi.ruliweb.com/mypi.htm?nid=267939");
 			}
 		});
 		label.setBounds(271, 471, 151, 15);
